@@ -17,5 +17,5 @@ format: html
 | Programming Language | Level |
 | --- | --- |
 | R | Proficient |
-| Stata | Beginner |
+| Stata | super |
 | Python | Beginner|
