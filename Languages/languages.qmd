@@ -13,4 +13,9 @@ format: html
 | Stata | Proficient |
 | Python | Beginner|
 
-### ...
+#### Nicole 
+| Programming Language | Level |
+| --- | --- |
+| R | Proficient |
+| Stata | Beginner |
+| Python | Beginner|
